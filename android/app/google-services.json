@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869904209141",
+    "project_id": "wordapi-89763",
+    "storage_bucket": "wordapi-89763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869904209141:android:beaeb3d7c69a56ac8da1bc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_word_search"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nsupjR39PsFP-TzfP8XRQ7PqPzV4bsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
